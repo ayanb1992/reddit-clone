@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RedditClone</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_sub_reddit">SubRedditActivity</string>
+    <string name="title_activity_subreddit_list">SubredditListActivity</string>
+    <string name="sub_reddit_list_title">Subreddits</string>
+    <string name="home">Home</string>
+    <string name="show_subreddits">Show Subreddits</string>
+    <string name="refresh">Refresh</string>
+    <string name="posted_prefix">Posted by u/</string>
+    <string name="vote">Vote</string>
+    <string name="self">self</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="title_activity_item_details">ItemDetailsActivity</string>
+</resources>
